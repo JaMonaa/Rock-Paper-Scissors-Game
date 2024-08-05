@@ -1,0 +1,70 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background-color: #f3ebeb;
+}
+
+h1 {
+    font-family: "Press Start 2P", system-ui;
+    font-style: normal;
+    font-size: 3.8rem;
+    text-shadow: 5px 0 #232931;
+    color: rgb(218, 71, 145);
+    padding-top: 3px;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 2.5rem;
+    text-shadow: 2px 0 #232931;
+    color: rgb(123, 123, 123);
+    margin: 0;
+    margin-top: 2%;
+}
+
+.hand {
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    font-size: 1.8rem;
+    color: #232931;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+img {
+    width: 65%;
+    height: 50%;
+}
+
+.btn {
+    margin: 2.5%;
+}
+
+button {
+    margin: 0;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 8%;
+    border: 2px solid darkgray;
+}
+
+button:hover {
+    background-color: rgb(204, 195, 200);
+    cursor: pointer;
+}
+
+footer {
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 1rem;
+}
